@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YuLi517
+- 👋 Hi, I’m @YuLi
 - 👀 I’m interested in coding and learn new tech.
 - 🌱 I’m currently learning Golang and K8S
 - 💞️ I’m looking to collaborate on K8S
